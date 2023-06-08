@@ -1,4 +1,1 @@
-data/
-figures/
-tables/
-references/
+data/**.RDS
