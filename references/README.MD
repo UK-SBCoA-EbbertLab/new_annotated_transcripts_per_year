@@ -57,3 +57,13 @@ After retrieving all annotations with the commands above, the files were unzippe
 
 Annotations from 2014 and 2015 (Version 76 and 79) include alternative assemblies and haplotypes. To make the comparison fair we only included the chromosomes that were also present in
 annotations at or after 2016 (Version 85 and above).
+
+
+
+## Other reference files:
+
+`./brain_disease_genes_only_IDs.tsv` - Brain disease associated gene ids and gene symbols. See methods section from the publication associated with this project for a detailed description on how this gene list was generated.
+`./brain_disease_genes_with_disease.tsv` - Brain disease associated gene ids and gene symbols, also includes name of disease associated with gene. See methods section from the publication associated with this project for a detailed description on how this gene list was generated.
+`./medically_relevant_genes.tsv` - Gene ids and gene symbols for genes associated to disease by GWAS and/or causal variants. See methods section from the publication associated with this project for a detailed description on how this gene list was generated.
+
+
