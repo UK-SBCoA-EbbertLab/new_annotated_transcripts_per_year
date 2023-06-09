@@ -1,2 +1,7 @@
 **/*.RDS
 **/*.gtf
+nextflow_pipeline/workflow/work
+nextflow_pipeline/workflow/results/
+**/*.sif
+**/*.bed
+**/*.fa
