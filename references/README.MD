@@ -1,6 +1,6 @@
 ## Year corresponding to each annotation
 
-'Homo_sapiens.GRCh38.76.gtf` = 2014 
+`Homo_sapiens.GRCh38.76.gtf` = 2014 
 
 `Homo_sapiens.GRCh38.79.gtf` = 2015
 
